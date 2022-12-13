@@ -1,0 +1,5 @@
+lane_count = 3
+map_height = 8
+monster_spawn_delay = 8
+
+logger_level = 1 # Severity Bound: (0) error (1) warning (2) info (3) debug
